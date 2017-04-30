@@ -1,0 +1,39 @@
+
+
+.aboutBox {
+  margin-top: 10px;
+  position: relative;
+  overflow: auto;
+  padding: 20px;
+}
+
+.timeline {
+  margin-top: 50px;
+  position: relative;
+  overflow: auto;
+ 
+  }
+  
+.timeline ul {
+    list-style: none;
+    padding: 0 0 0 1em;
+    z-index: 1;
+  }
+  
+.timeline ul li {
+    background: #dddddd;
+    padding: 1em;
+    margin-bottom: 1em;
+    position: relative;
+   
+  }
+  
+.timeline ul li h4 {
+    margin-top: 0;
+    color: #EF5353;
+  }
+  
+  
+.timeline ul li time {
+    font-style: italic;
+  }
